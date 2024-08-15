@@ -5,4 +5,4 @@ Developed a predictive model to identify at-risk bank customers and enhance rete
 * Built and optimized an Artificial Neural Network (ANN) with Keras, employing regularization and various activation functions.
 * Evaluated model performance and visualized metrics to provide actionable insights for customer retention.
 
-### Skills: Python, Data Preprocessing, Artificial Neural Networks, Keras, Predictive Modeling, Customer Retention, Data Visualization.
+### Skills: Python, Data Preprocessing and Visualization, Artificial Neural Networks, Keras, Predictive Modeling, Customer Retention.
